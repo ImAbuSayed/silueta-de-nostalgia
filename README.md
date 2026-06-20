@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silueta-de-nostalgia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Silueta de nostalgia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-de-nostalgia/) |
+| **Get License** | [Secure Licensing Rights for Silueta de nostalgia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-de-nostalgia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Silueta de nostalgia en la noche
+> Tu cuerpo llama y yo pierdo el control
+> Bailando lento entre sombras y fuego
+> Este momento lo quiero para los dos
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

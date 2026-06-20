@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Silueta de nostalgia
+
+This log tracks the cryptographic history and versioning for the song **Silueta de nostalgia** (silueta-de-nostalgia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:02:01.224655 | `v1` | `7f7f3a7b19700484db26c29941b2f5260121a55765fe27b5d07a2310c11e02f8` | `375008e04339b8763ee27b0a09501df0c1f58606664144ada9d4dc741b2d422b` | `2026-06-20_silueta-de-nostalgia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
